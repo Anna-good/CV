@@ -1,2 +1,3 @@
 # CV
-![Петрова АП](https://github.com/user-attachments/assets/adbf262a-301e-4375-89d0-1c3cc9b83399)
+
+![ПетроваАПfrontend](https://github.com/user-attachments/assets/6e4e1685-b0ba-4375-93b4-6443a38bca55)
