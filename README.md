@@ -1,3 +1,3 @@
 # CV
 
-[📄 Петрова АП — Frontend](https://github.com/Anna-good/CV/blob/main/Resume_PetrovaAP_Frontend.jpg)
+![Петрова АП — Frontend](./Resume_PetrovaAP_Frontend.jpg)
